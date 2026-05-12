@@ -5,5 +5,5 @@
 | Pedro Lovatto Zambon | 
 | Thiago Vinicius do Nascimento Marques | 
 | Guilherme Azevedo Campos |
-| Anny |
+| Anny Mariana Barreto |
 | Italo |
