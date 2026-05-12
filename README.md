@@ -2,7 +2,7 @@
 
 | Aluno | Atividade |
 | ---   |  --- |
-| Pedro Zambon | 
+| Pedro Lovatto Zambon | 
 | Thiago Vinicius do Nascimento Marques | 
 | Guilherme Azevedo Campos |
 | Anny |
