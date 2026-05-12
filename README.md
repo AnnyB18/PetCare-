@@ -4,6 +4,6 @@
 | ---   |  --- |
 | Pedro Zambon | 
 | Thiago Vinicius do Nascimento Marques | 
-| Guilherme |
+| Guilherme Azevedo Campos |
 | Anny |
 | Italo |
