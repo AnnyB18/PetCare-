@@ -3,7 +3,7 @@
 | Aluno | Atividade |
 | ---   |  --- |
 | Pedro Zambon | 
-| Thiago Vinicius | 
+| Thiago Vinicius do Nascimento Marques | 
 | Guilherme |
 | Anny |
 | Italo |
