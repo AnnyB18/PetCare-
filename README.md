@@ -8,7 +8,7 @@
 | Anny Mariana Barreto |Listagem de pets (visão do veterinário), Listagem de pets (visão do tutor), Cadastro de pet, Tela de perfil
 | Italo dos Santos Oliveira | Tela de Splash Screen, Login, e Meus Cuidados; além de fluxo de alterar senha com código enviado ao e-mail
 
-TO DO
+## TO DO
 - [ ] No protótipo de alta fidelidade mudar o ícone de notificação, o tamanho do texto aparentemente diferente em algumas telas, no calendário tem duas marcações de datas com as mesmas cores
 - [ ] Uso da cor primária em excesso pode pesar devido ao alto contraste com branco, sugiro usar um branco como #EEEEEE no lugar para não mudar a cor primaria
 - [ ] Adicionar identificação automática se é tutor ou veterinário
